@@ -15,9 +15,6 @@ public class GameAdmin {
 	public static Player currentPlayer = new Player();
 	public static Player nasa = new Player();
 	public static eSpaceSystem eSpaceSystem;
-	
-	
-	
 
 	// creation of player list
 	public static ArrayList<Player> playerOrder;
