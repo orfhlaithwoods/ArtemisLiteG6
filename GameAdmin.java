@@ -112,7 +112,7 @@ public class GameAdmin {
 				+ "/    |    \\  | \\/|  | \\  ___/|  Y Y  \\  |\\___ \\  |    |___|  ||  | \\  ___/ \r\n"
 				+ "\\____|__  /__|   |__|  \\___  >__|_|  /__/____  > |_______ \\__||__|  \\___  >\r\n"
 				+ "        \\/                 \\/      \\/        \\/          \\/             \\/ ");
-		System.out.println("\t\t  A game by Ryan, √ìrfhlaith and Caol√°n.");
+		System.out.println("\t\t  A game by Ryan, ”rfhlaith and Caol·n.");
 		System.out.println();
 		delay("Welcome to Artemis Lite!", 50L);
 		System.out.println();
